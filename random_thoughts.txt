@@ -1,0 +1,10 @@
+-Seb (101489938)
+Spotify and being on computers is fun. I love just going on vmware,
+setting up a linux system i'm never gonna use, make a cool background for it
+set up neofetch and essentially make it look real pretty.
+It serves no practical use. I installed debian expecting to rely on it but
+I quickly came to realize how minimal Debian is... Kali is sorta my 
+favourite linux distro, it's not as chaotic as Arch, it's not too basic,
+and - most importantly for me, It can be made pretty.
+
+I might try out Arch, just cus it's so popular. :)
