@@ -1,3 +1,8 @@
 The Importance of learning Devops in the software development cycle
 By Sebastian Atabales-Schnitzler
-I need to get my Commitments up!!!
+
+The practice of Devops is beneficial to a organization due to its 
+centralization of application building resources. Meaning that resources
+used to create an application can be seen and accessed by any member of
+the building process. Furthermore it allows for better planning of software
+and continuous delivery of software and patches.
