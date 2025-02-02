@@ -1,6 +1,5 @@
-Information about the COMP 3104 DevOps Course
+Information about the COMP 2156 DevOps Course
 by Sebastian Atabales-Schnitzler
 
-I don't know shit about the Comp3104 DevOps Course because I'm not in the
-COMP 3104 Devops course... I know plenty about the Comp2156 Devops course! Because that
-is within my program!
+The devops course is a course in George Brown College focusing on devops
+through GitHub, GitBash, and other VCS tools
