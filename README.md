@@ -1,4 +1,4 @@
-# COMP2156_Group1_Assignment
+# COMP2156_Group2_Assignment
 ## Group Members
 - **Leader:** Sebastian Atabales-Schnitzler (101489938) - [GitHub](https://github.com/S-N-AS-Awstin)
 - **Member 2:**  -- INSERT HERE --
