@@ -1,7 +1,7 @@
 # COMP2156_Group2_Assignment
 ## Group Members
 - **Leader:** Sebastian Atabales-Schnitzler (101489938) - [GitHub](https://github.com/S-N-AS-Awstin)
-- **Member 2:**  -- INSERT HERE --
+- **Member 2:**  Bleque Tanjong (101518595) - [https://github.com/tanjong237/COMP2156]
 - **Member 3:** -- INSERT HERE --
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on

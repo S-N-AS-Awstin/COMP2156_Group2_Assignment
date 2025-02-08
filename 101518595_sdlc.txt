@@ -1,0 +1,4 @@
+DevOps SDLC
+SDLC stands for the software development life cycle. 
+It outlines the various processes that the code goes through before it is released to the client as an app
+They are various processes in the software lifecycle.
