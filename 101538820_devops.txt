@@ -1,0 +1,4 @@
+COMP 3104 - DevOps at George Brown College provides students with essential knowledge and hands-on experience in DevOps principles and practices. 
+The course covers continuous integration and deployment (CI/CD), automation, infrastructure as code, configuration management, and monitoring.
+ Students learn how to streamline software development and operations using modern tools and methodologies,
+ improving efficiency, reliability, and collaboration in software projects.
